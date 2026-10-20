@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "mode": "disabled",
+  "vin": "",
+  "pairing_role": "ROLE_DRIVER",
+  "allowed_commands": ["unlock"],
+  "note": "Documentation template only; v0.1 firmware does not load this file. Never put private keys here."
+}
